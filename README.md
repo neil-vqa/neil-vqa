@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **neil-vqa/neil-vqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![nvqa_logo](neilvqa_logo.png)
+
+### Hi there 👋
