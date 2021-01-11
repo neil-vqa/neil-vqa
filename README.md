@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![nvqa_logo](https://raw.githubusercontent.com/neil-vqa/neil-vqa/master/neilvqa_logo.png)
+![nvqa_logo](https://raw.githubusercontent.com/neil-vqa/neil-vqa/master/nvqa_logo.png)
 
 ### Hi there 👋
